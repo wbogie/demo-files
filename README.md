@@ -1,2 +1,2 @@
 # demo-files
-Demofiles
+This reposotory hold several kind of demofiles.
